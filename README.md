@@ -13,6 +13,12 @@ A curated list of Machine learning videos, links, projects and datasets to help 
 
 The goal of this level is to get you familiar with the ML universe. You will learn a bit of everything.
 
+#### Some useful sites:
+        1. https://internshala.com/internships/big-data,data-science,machine-learning-internship/
+        2. https://paperswithcode.com/
+        3. https://economictimes.indiatimes.com/topic/Analytics-and-Data-Science
+        4. https://www.kaggle.com/learn
+
 1. #### Learn Python (Est. time - 2 weeks)
         1. Basics of Python - https://www.youtube.com/playlist?list=PLKnIA16_Rmvb1RYR-iTA_hzckhdONtSW4
         2. OOP in Python
@@ -33,6 +39,11 @@ The goal of this level is to get you familiar with the ML universe. You will lea
 3. #### Learn Pandas (Est. time 4 Days)
         1. Pandas Playlist - https://www.youtube.com/watch?v=kq9Vmg5d7Sk&list=PLKnIA16_RmvbR85fgbfVRKOiMokUKVupy
         2. Pandas Problems - https://github.com/ajcr/100-pandas-puzzles
+
+3.A. #### Learn Web Scrapping : 
+        1. https://www.youtube.com/watch?v=uufDGjTuq34&t=21s
+        2. https://www.youtube.com/watch?v=XVv6mJpFOb0&t=28s
+        3. https://www.youtube.com/watch?v=RKsLLG-bzEY
 
 4. #### Learn Data Visualization (Est. time 1 Week)
         1. Matplotlib - https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_
