@@ -40,7 +40,7 @@ The goal of this level is to get you familiar with the ML universe. You will lea
         1. Pandas Playlist - https://www.youtube.com/watch?v=kq9Vmg5d7Sk&list=PLKnIA16_RmvbR85fgbfVRKOiMokUKVupy
         2. Pandas Problems - https://github.com/ajcr/100-pandas-puzzles
 
-3.A. #### Learn Web Scrapping : 
+   #### Learn Web Scrapping:
         1. https://www.youtube.com/watch?v=uufDGjTuq34&t=21s
         2. https://www.youtube.com/watch?v=XVv6mJpFOb0&t=28s
         3. https://www.youtube.com/watch?v=RKsLLG-bzEY
