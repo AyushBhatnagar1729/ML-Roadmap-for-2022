@@ -18,6 +18,7 @@ The goal of this level is to get you familiar with the ML universe. You will lea
         2. https://paperswithcode.com/
         3. https://economictimes.indiatimes.com/topic/Analytics-and-Data-Science
         4. https://www.kaggle.com/learn
+        5. https://web.archive.org/web/20220315094016/https://github.com/adeshpande3/Machine-Learning-Links-And-Lessons-Learned
 
 1. #### Learn Python (Est. time - 2 weeks)
         1. Basics of Python - https://www.youtube.com/playlist?list=PLKnIA16_Rmvb1RYR-iTA_hzckhdONtSW4
